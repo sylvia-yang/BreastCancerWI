@@ -1,6 +1,6 @@
 # BreastCancerWI
 
-This project is to use python to do data wrangling and visualization. 
+This project is to use python to do data wrangling, EDA and visualization. 
 
 The contents includs import libraries, read csv, data cleaning, slicing data with column names or index numbers, selecting multiple ranges with numpy, change column names, create masks, and plot charts.
 
